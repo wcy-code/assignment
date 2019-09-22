@@ -1,0 +1,1378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d5bdba5-5153-40e4-b033-0cdf2c99e699" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/serviceA/target/" />
+    <ignored path="$PROJECT_DIR$/serviceB/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-server2/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Eureka.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Eureka.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="2139">
+                <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="107" selection-end-column="25" />
+                <folding>
+                  <marker date="1568787166425" expanded="true" signature="68:244" ph="..." />
+                  <marker date="1568787166425" expanded="true" signature="303:695" ph="..." />
+                  <marker date="1568787166425" expanded="true" signature="328:665" ph="..." />
+                  <marker date="1568787166425" expanded="true" signature="355:639" ph="..." />
+                  <marker date="1568787166425" expanded="true" signature="719:1267" ph="..." />
+                  <marker date="1568787166425" expanded="true" signature="742:892" ph="..." />
+                  <marker date="1568787166425" expanded="true" signature="915:1065" ph="..." />
+                  <marker date="1568787166425" expanded="true" signature="1088:1245" ph="..." />
+                  <marker date="1568787166425" expanded="true" signature="1296:1339" ph="@{...}" />
+                  <marker date="1568787166425" expanded="false" signature="1413:1426" ph=" { " />
+                  <marker date="1568787166425" expanded="false" signature="1474:1482" ph=" }" />
+                  <marker date="1568787166425" expanded="true" signature="1549:1570" ph="server: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="1566:1570" ph="8761" />
+                  <marker date="1568787166425" expanded="true" signature="1572:1590" ph="eureka: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="1617:1622" ph="false" />
+                  <marker date="1568787166425" expanded="true" signature="1644:1649" ph="false" />
+                  <marker date="1568787166425" expanded="true" signature="1846:2214" ph="..." />
+                  <marker date="1568787166425" expanded="true" signature="1869:2019" ph="..." />
+                  <marker date="1568787166425" expanded="true" signature="2042:2192" ph="..." />
+                  <marker date="1568787166425" expanded="true" signature="2239:2282" ph="@{...}" />
+                  <marker date="1568787166425" expanded="false" signature="2363:2376" ph=" { " />
+                  <marker date="1568787166425" expanded="false" signature="2431:2439" ph=" }" />
+                  <marker date="1568787166425" expanded="false" signature="2731:2744" ph=" { " />
+                  <marker date="1568787166425" expanded="false" signature="2784:2794" ph=" }" />
+                  <marker date="1568787166425" expanded="true" signature="2820:2841" ph="server: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="2837:2841" ph="8080" />
+                  <marker date="1568787166425" expanded="true" signature="2843:2866" ph="spring: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="2879:2887" ph="ServiceA" />
+                  <marker date="1568787166425" expanded="true" signature="2889:2909" ph="eureka: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="2911:2946" ph="​    hostname: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="2926:2935" ph="localhost" />
+                  <marker date="1568787166425" expanded="true" signature="2986:3014" ph="http://lo…761/eureka" />
+                  <marker date="1568787166425" expanded="true" signature="3197:3738" ph="..." />
+                  <marker date="1568787166425" expanded="true" signature="3220:3370" ph="..." />
+                  <marker date="1568787166425" expanded="true" signature="3393:3543" ph="..." />
+                  <marker date="1568787166425" expanded="true" signature="3566:3716" ph="..." />
+                  <marker date="1568787166425" expanded="true" signature="3767:3810" ph="@{...}" />
+                  <marker date="1568787166425" expanded="false" signature="3891:3904" ph=" { " />
+                  <marker date="1568787166425" expanded="false" signature="3959:3967" ph=" }" />
+                  <marker date="1568787166425" expanded="true" signature="4075:4106" ph="@{...}" />
+                  <marker date="1568787166425" expanded="false" signature="4217:4230" ph=" { " />
+                  <marker date="1568787166425" expanded="false" signature="4256:4264" ph=" }" />
+                  <marker date="1568787166425" expanded="true" signature="4407:4567" ph="{...}" />
+                  <marker date="1568787166425" expanded="true" signature="4597:4618" ph="server: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="4614:4618" ph="9090" />
+                  <marker date="1568787166425" expanded="true" signature="4620:4643" ph="spring: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="4656:4664" ph="ServiceB" />
+                  <marker date="1568787166425" expanded="true" signature="4666:4686" ph="eureka: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="4688:4723" ph="​    hostname: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="4703:4712" ph="localhost" />
+                  <marker date="1568787166425" expanded="true" signature="4763:4791" ph="http://lo…761/eureka" />
+                  <marker date="1568787166425" expanded="true" signature="5239:5260" ph="server: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="5256:5260" ph="8761" />
+                  <marker date="1568787166425" expanded="true" signature="5262:5282" ph="eureka: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="5284:5315" ph="​    hostname: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="5299:5304" ph="peer1" />
+                  <marker date="1568787166425" expanded="true" signature="5355:5380" ph="http://pe…62/eureka/" />
+                  <marker date="1568787166425" expanded="true" signature="5396:5417" ph="server: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="5413:5417" ph="8762" />
+                  <marker date="1568787166425" expanded="true" signature="5419:5439" ph="eureka: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="5441:5472" ph="​    hostname: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="5456:5461" ph="peer2" />
+                  <marker date="1568787166425" expanded="true" signature="5512:5537" ph="http://pe…61/eureka/" />
+                  <marker date="1568787166425" expanded="true" signature="5593:5613" ph="server: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="5609:5613" ph="8080" />
+                  <marker date="1568787166425" expanded="true" signature="5614:5655" ph="spring: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="5624:5655" ph="application: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="5647:5655" ph="ServiceA" />
+                  <marker date="1568787166425" expanded="true" signature="5656:5794" ph="eureka: &lt;2 keys&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="5666:5699" ph="instance: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="5690:5699" ph="localhost" />
+                  <marker date="1568787166425" expanded="true" signature="5702:5794" ph="client: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="5714:5794" ph="serviceUrl: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="5745:5794" ph="http://pe…762/eureka" />
+                  <marker date="1568787166425" expanded="true" signature="5823:5843" ph="server: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="5839:5843" ph="9090" />
+                  <marker date="1568787166425" expanded="true" signature="5844:5885" ph="spring: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="5854:5885" ph="application: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="5877:5885" ph="ServiceB" />
+                  <marker date="1568787166425" expanded="true" signature="5886:6024" ph="eureka: &lt;2 keys&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="5896:5929" ph="instance: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="5920:5929" ph="localhost" />
+                  <marker date="1568787166425" expanded="true" signature="5932:6024" ph="client: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="5944:6024" ph="serviceUrl: &lt;1 key&gt;" />
+                  <marker date="1568787166425" expanded="true" signature="5975:6024" ph="http://pe…762/eureka" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/eureka-server/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EServer2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-server2/src/main/java/com/wcy/EServer2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="4" column="74" lean-forward="false" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-server2/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-server/src/main/java/com/wcy/EServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/src/main/java/com/wcy/EServer.java" />
+        <option value="$PROJECT_DIR$/serviceA/pom.xml" />
+        <option value="$PROJECT_DIR$/serviceA/src/main/java/com/wcy/service/ServiceAApplication.java" />
+        <option value="$PROJECT_DIR$/serviceA/src/main/java/com/wcy/service/ServiceAController.java" />
+        <option value="$PROJECT_DIR$/serviceB/pom.xml" />
+        <option value="$PROJECT_DIR$/serviceB/src/main/java/com/wcy/service/ServiceBApplication.java" />
+        <option value="$PROJECT_DIR$/serviceB/src/main/java/com/wcy/service/ServiceBController.java" />
+        <option value="$PROJECT_DIR$/eureka-server2/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server2/src/main/java/com/wcy/EServer2.java" />
+        <option value="$PROJECT_DIR$/serviceA/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/serviceB/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/eureka-server2/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1386" />
+    <option name="height" value="665" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="eureka-wcy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-wcy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-wcy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-wcy" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-wcy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-wcy" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-wcy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-wcy" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-wcy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-wcy" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-wcy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-wcy" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-wcy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-wcy" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wcy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-wcy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-wcy" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-wcy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-wcy" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-wcy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-wcy" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-wcy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-wcy" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-wcy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-wcy" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-wcy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-wcy" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-wcy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-wcy" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-wcy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-wcy" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wcy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-wcy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-wcy" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA\AppProject\eureka-wcy" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EServer">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="EServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.wcy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wcy.EServer" />
+      <module name="eureka-server" />
+      <envs />
+    </configuration>
+    <configuration name="EServer2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.wcy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wcy.EServer2" />
+      <module name="eureka-server2" />
+      <envs />
+    </configuration>
+    <configuration name="ServiceAApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.wcy.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wcy.service.ServiceAApplication" />
+      <module name="serviceA" />
+      <envs />
+    </configuration>
+    <configuration name="ServiceBApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.wcy.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wcy.service.ServiceBApplication" />
+      <module name="serviceB" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.EServer" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.ServiceAApplication" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.ServiceBApplication" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.EServer2" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Spring Boot.EServer" />
+        <item index="1" class="java.lang.String" itemvalue="Spring Boot.ServiceBApplication" />
+        <item index="2" class="java.lang.String" itemvalue="Spring Boot.ServiceAApplication" />
+        <item index="3" class="java.lang.String" itemvalue="Spring Boot.EServer2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d5bdba5-5153-40e4-b033-0cdf2c99e699" name="Default" comment="" />
+      <created>1568795680058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568795680058</updated>
+      <workItem from="1568795689764" duration="5565000" />
+      <workItem from="1569130188302" duration="577000" />
+      <workItem from="1569130959444" duration="60000" />
+      <workItem from="1569144211865" duration="314000" />
+      <workItem from="1569144642288" duration="792000" />
+      <workItem from="1569159880154" duration="425000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7733000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37171054" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19288956" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967105" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967105" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37171054" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19288956" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/serviceB/src/main/java/com/wcy/service/ServiceBController.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Eureka.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2139">
+            <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="107" selection-end-column="25" />
+            <folding>
+              <marker date="1568787166425" expanded="true" signature="68:244" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="303:695" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="328:665" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="355:639" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="719:1267" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="742:892" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="915:1065" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="1088:1245" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="1296:1339" ph="@{...}" />
+              <marker date="1568787166425" expanded="false" signature="1413:1426" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="1474:1482" ph=" }" />
+              <marker date="1568787166425" expanded="true" signature="1549:1570" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="1566:1570" ph="8761" />
+              <marker date="1568787166425" expanded="true" signature="1572:1590" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="1617:1622" ph="false" />
+              <marker date="1568787166425" expanded="true" signature="1644:1649" ph="false" />
+              <marker date="1568787166425" expanded="true" signature="1846:2214" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="1869:2019" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="2042:2192" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="2239:2282" ph="@{...}" />
+              <marker date="1568787166425" expanded="false" signature="2363:2376" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="2431:2439" ph=" }" />
+              <marker date="1568787166425" expanded="false" signature="2731:2744" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="2784:2794" ph=" }" />
+              <marker date="1568787166425" expanded="true" signature="2820:2841" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="2837:2841" ph="8080" />
+              <marker date="1568787166425" expanded="true" signature="2843:2866" ph="spring: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="2879:2887" ph="ServiceA" />
+              <marker date="1568787166425" expanded="true" signature="2889:2909" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="2911:2946" ph="​    hostname: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="2926:2935" ph="localhost" />
+              <marker date="1568787166425" expanded="true" signature="2986:3014" ph="http://lo…761/eureka" />
+              <marker date="1568787166425" expanded="true" signature="3197:3738" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="3220:3370" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="3393:3543" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="3566:3716" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="3767:3810" ph="@{...}" />
+              <marker date="1568787166425" expanded="false" signature="3891:3904" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="3959:3967" ph=" }" />
+              <marker date="1568787166425" expanded="true" signature="4075:4106" ph="@{...}" />
+              <marker date="1568787166425" expanded="false" signature="4217:4230" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="4256:4264" ph=" }" />
+              <marker date="1568787166425" expanded="true" signature="4407:4567" ph="{...}" />
+              <marker date="1568787166425" expanded="true" signature="4597:4618" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="4614:4618" ph="9090" />
+              <marker date="1568787166425" expanded="true" signature="4620:4643" ph="spring: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="4656:4664" ph="ServiceB" />
+              <marker date="1568787166425" expanded="true" signature="4666:4686" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="4688:4723" ph="​    hostname: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="4703:4712" ph="localhost" />
+              <marker date="1568787166425" expanded="true" signature="4763:4791" ph="http://lo…761/eureka" />
+              <marker date="1568787166425" expanded="true" signature="5239:5260" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5256:5260" ph="8761" />
+              <marker date="1568787166425" expanded="true" signature="5262:5282" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5284:5315" ph="​    hostname: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5299:5304" ph="peer1" />
+              <marker date="1568787166425" expanded="true" signature="5355:5380" ph="http://pe…62/eureka/" />
+              <marker date="1568787166425" expanded="true" signature="5396:5417" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5413:5417" ph="8762" />
+              <marker date="1568787166425" expanded="true" signature="5419:5439" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5441:5472" ph="​    hostname: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5456:5461" ph="peer2" />
+              <marker date="1568787166425" expanded="true" signature="5512:5537" ph="http://pe…61/eureka/" />
+              <marker date="1568787166425" expanded="true" signature="5593:5613" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5609:5613" ph="8080" />
+              <marker date="1568787166425" expanded="true" signature="5614:5655" ph="spring: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5624:5655" ph="application: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5647:5655" ph="ServiceA" />
+              <marker date="1568787166425" expanded="true" signature="5656:5794" ph="eureka: &lt;2 keys&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5666:5699" ph="instance: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5690:5699" ph="localhost" />
+              <marker date="1568787166425" expanded="true" signature="5702:5794" ph="client: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5714:5794" ph="serviceUrl: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5745:5794" ph="http://pe…762/eureka" />
+              <marker date="1568787166425" expanded="true" signature="5823:5843" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5839:5843" ph="9090" />
+              <marker date="1568787166425" expanded="true" signature="5844:5885" ph="spring: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5854:5885" ph="application: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5877:5885" ph="ServiceB" />
+              <marker date="1568787166425" expanded="true" signature="5886:6024" ph="eureka: &lt;2 keys&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5896:5929" ph="instance: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5920:5929" ph="localhost" />
+              <marker date="1568787166425" expanded="true" signature="5932:6024" ph="client: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5944:6024" ph="serviceUrl: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5975:6024" ph="http://pe…762/eureka" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server2/src/main/java/com/wcy/EServer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="74" lean-forward="true" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server2/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/java/com/wcy/EServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eureka.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="7452">
+            <caret line="344" column="2" lean-forward="false" selection-start-line="344" selection-start-column="2" selection-end-line="344" selection-end-column="14" />
+            <folding>
+              <marker date="1568787166425" expanded="true" signature="68:244" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="303:695" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="328:665" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="355:639" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="719:1267" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="742:892" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="915:1065" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="1088:1245" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="1296:1339" ph="@{...}" />
+              <marker date="1568787166425" expanded="false" signature="1413:1426" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="1474:1482" ph=" }" />
+              <marker date="1568787166425" expanded="true" signature="1549:1570" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="1566:1570" ph="8761" />
+              <marker date="1568787166425" expanded="true" signature="1572:1590" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="1617:1622" ph="false" />
+              <marker date="1568787166425" expanded="true" signature="1644:1649" ph="false" />
+              <marker date="1568787166425" expanded="true" signature="1846:2214" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="1869:2019" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="2042:2192" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="2239:2282" ph="@{...}" />
+              <marker date="1568787166425" expanded="false" signature="2363:2376" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="2431:2439" ph=" }" />
+              <marker date="1568787166425" expanded="false" signature="2731:2744" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="2784:2794" ph=" }" />
+              <marker date="1568787166425" expanded="true" signature="2820:2841" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="2837:2841" ph="8080" />
+              <marker date="1568787166425" expanded="true" signature="2843:2866" ph="spring: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="2879:2887" ph="ServiceA" />
+              <marker date="1568787166425" expanded="true" signature="2889:2909" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="2911:2946" ph="​    hostname: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="2926:2935" ph="localhost" />
+              <marker date="1568787166425" expanded="true" signature="2986:3014" ph="http://lo…761/eureka" />
+              <marker date="1568787166425" expanded="true" signature="3197:3738" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="3220:3370" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="3393:3543" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="3566:3716" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="3767:3810" ph="@{...}" />
+              <marker date="1568787166425" expanded="false" signature="3891:3904" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="3959:3967" ph=" }" />
+              <marker date="1568787166425" expanded="true" signature="4075:4106" ph="@{...}" />
+              <marker date="1568787166425" expanded="false" signature="4217:4230" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="4256:4264" ph=" }" />
+              <marker date="1568787166425" expanded="true" signature="4407:4567" ph="{...}" />
+              <marker date="1568787166425" expanded="true" signature="4597:4618" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="4614:4618" ph="9090" />
+              <marker date="1568787166425" expanded="true" signature="4620:4643" ph="spring: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="4656:4664" ph="ServiceB" />
+              <marker date="1568787166425" expanded="true" signature="4666:4686" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="4688:4723" ph="​    hostname: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="4703:4712" ph="localhost" />
+              <marker date="1568787166425" expanded="true" signature="4763:4791" ph="http://lo…761/eureka" />
+              <marker date="1568787166425" expanded="true" signature="5239:5260" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5256:5260" ph="8761" />
+              <marker date="1568787166425" expanded="true" signature="5262:5282" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5284:5315" ph="​    hostname: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5299:5304" ph="peer1" />
+              <marker date="1568787166425" expanded="true" signature="5355:5380" ph="http://pe…62/eureka/" />
+              <marker date="1568787166425" expanded="true" signature="5396:5417" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5413:5417" ph="8762" />
+              <marker date="1568787166425" expanded="true" signature="5419:5439" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5441:5472" ph="​    hostname: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5456:5461" ph="peer2" />
+              <marker date="1568787166425" expanded="true" signature="5512:5537" ph="http://pe…61/eureka/" />
+              <marker date="1568787166425" expanded="true" signature="5593:5613" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5609:5613" ph="8080" />
+              <marker date="1568787166425" expanded="true" signature="5614:5655" ph="spring: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5624:5655" ph="application: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5647:5655" ph="ServiceA" />
+              <marker date="1568787166425" expanded="true" signature="5656:5794" ph="eureka: &lt;2 keys&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5666:5699" ph="instance: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5690:5699" ph="localhost" />
+              <marker date="1568787166425" expanded="true" signature="5702:5794" ph="client: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5714:5794" ph="serviceUrl: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5745:5794" ph="http://pe…762/eureka" />
+              <marker date="1568787166425" expanded="true" signature="5823:5843" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5839:5843" ph="9090" />
+              <marker date="1568787166425" expanded="true" signature="5844:5885" ph="spring: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5854:5885" ph="application: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5877:5885" ph="ServiceB" />
+              <marker date="1568787166425" expanded="true" signature="5886:6024" ph="eureka: &lt;2 keys&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5896:5929" ph="instance: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5920:5929" ph="localhost" />
+              <marker date="1568787166425" expanded="true" signature="5932:6024" ph="client: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5944:6024" ph="serviceUrl: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5975:6024" ph="http://pe…762/eureka" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="87" lean-forward="false" selection-start-line="8" selection-start-column="87" selection-end-line="8" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server2/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/java/com/wcy/EServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eureka.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1568787166425" expanded="true" signature="68:244" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="303:695" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="328:665" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="355:639" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="719:1267" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="742:892" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="915:1065" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="1088:1245" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="1296:1339" ph="@{...}" />
+              <marker date="1568787166425" expanded="false" signature="1413:1426" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="1474:1482" ph=" }" />
+              <marker date="1568787166425" expanded="true" signature="1549:1570" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="1566:1570" ph="8761" />
+              <marker date="1568787166425" expanded="true" signature="1572:1590" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="1617:1622" ph="false" />
+              <marker date="1568787166425" expanded="true" signature="1644:1649" ph="false" />
+              <marker date="1568787166425" expanded="true" signature="1846:2214" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="1869:2019" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="2042:2192" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="2239:2282" ph="@{...}" />
+              <marker date="1568787166425" expanded="false" signature="2363:2376" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="2431:2439" ph=" }" />
+              <marker date="1568787166425" expanded="false" signature="2731:2744" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="2784:2794" ph=" }" />
+              <marker date="1568787166425" expanded="true" signature="2820:2841" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="2837:2841" ph="8080" />
+              <marker date="1568787166425" expanded="true" signature="2843:2866" ph="spring: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="2879:2887" ph="ServiceA" />
+              <marker date="1568787166425" expanded="true" signature="2889:2909" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="2911:2946" ph="​    hostname: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="2926:2935" ph="localhost" />
+              <marker date="1568787166425" expanded="true" signature="2986:3014" ph="http://lo…761/eureka" />
+              <marker date="1568787166425" expanded="true" signature="3197:3738" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="3220:3370" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="3393:3543" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="3566:3716" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="3767:3810" ph="@{...}" />
+              <marker date="1568787166425" expanded="false" signature="3891:3904" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="3959:3967" ph=" }" />
+              <marker date="1568787166425" expanded="true" signature="4075:4106" ph="@{...}" />
+              <marker date="1568787166425" expanded="false" signature="4217:4230" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="4256:4264" ph=" }" />
+              <marker date="1568787166425" expanded="true" signature="4407:4567" ph="{...}" />
+              <marker date="1568787166425" expanded="true" signature="4597:4618" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="4614:4618" ph="9090" />
+              <marker date="1568787166425" expanded="true" signature="4620:4643" ph="spring: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="4656:4664" ph="ServiceB" />
+              <marker date="1568787166425" expanded="true" signature="4666:4686" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="4688:4723" ph="​    hostname: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="4703:4712" ph="localhost" />
+              <marker date="1568787166425" expanded="true" signature="4763:4791" ph="http://lo…761/eureka" />
+              <marker date="1568787166425" expanded="true" signature="5239:5260" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5256:5260" ph="8761" />
+              <marker date="1568787166425" expanded="true" signature="5262:5282" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5284:5315" ph="​    hostname: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5299:5304" ph="peer1" />
+              <marker date="1568787166425" expanded="true" signature="5355:5380" ph="http://pe…62/eureka/" />
+              <marker date="1568787166425" expanded="true" signature="5396:5417" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5413:5417" ph="8762" />
+              <marker date="1568787166425" expanded="true" signature="5419:5439" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5441:5472" ph="​    hostname: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5456:5461" ph="peer2" />
+              <marker date="1568787166425" expanded="true" signature="5512:5537" ph="http://pe…61/eureka/" />
+              <marker date="1568787166425" expanded="true" signature="5593:5613" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5609:5613" ph="8080" />
+              <marker date="1568787166425" expanded="true" signature="5614:5655" ph="spring: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5624:5655" ph="application: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5647:5655" ph="ServiceA" />
+              <marker date="1568787166425" expanded="true" signature="5656:5794" ph="eureka: &lt;2 keys&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5666:5699" ph="instance: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5690:5699" ph="localhost" />
+              <marker date="1568787166425" expanded="true" signature="5702:5794" ph="client: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5714:5794" ph="serviceUrl: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5745:5794" ph="http://pe…762/eureka" />
+              <marker date="1568787166425" expanded="true" signature="5823:5843" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5839:5843" ph="9090" />
+              <marker date="1568787166425" expanded="true" signature="5844:5885" ph="spring: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5854:5885" ph="application: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5877:5885" ph="ServiceB" />
+              <marker date="1568787166425" expanded="true" signature="5886:6024" ph="eureka: &lt;2 keys&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5896:5929" ph="instance: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5920:5929" ph="localhost" />
+              <marker date="1568787166425" expanded="true" signature="5932:6024" ph="client: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5944:6024" ph="serviceUrl: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5975:6024" ph="http://pe…762/eureka" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eureka.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1568787166425" expanded="true" signature="68:244" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="303:695" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="328:665" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="355:639" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="719:1267" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="742:892" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="915:1065" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="1088:1245" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="1296:1339" ph="@{...}" />
+              <marker date="1568787166425" expanded="false" signature="1413:1426" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="1474:1482" ph=" }" />
+              <marker date="1568787166425" expanded="true" signature="1549:1570" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="1566:1570" ph="8761" />
+              <marker date="1568787166425" expanded="true" signature="1572:1590" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="1617:1622" ph="false" />
+              <marker date="1568787166425" expanded="true" signature="1644:1649" ph="false" />
+              <marker date="1568787166425" expanded="true" signature="1846:2214" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="1869:2019" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="2042:2192" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="2239:2282" ph="@{...}" />
+              <marker date="1568787166425" expanded="false" signature="2363:2376" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="2431:2439" ph=" }" />
+              <marker date="1568787166425" expanded="false" signature="2731:2744" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="2784:2794" ph=" }" />
+              <marker date="1568787166425" expanded="true" signature="2820:2841" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="2837:2841" ph="8080" />
+              <marker date="1568787166425" expanded="true" signature="2843:2866" ph="spring: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="2879:2887" ph="ServiceA" />
+              <marker date="1568787166425" expanded="true" signature="2889:2909" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="2911:2946" ph="​    hostname: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="2926:2935" ph="localhost" />
+              <marker date="1568787166425" expanded="true" signature="2986:3014" ph="http://lo…761/eureka" />
+              <marker date="1568787166425" expanded="true" signature="3197:3738" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="3220:3370" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="3393:3543" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="3566:3716" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="3767:3810" ph="@{...}" />
+              <marker date="1568787166425" expanded="false" signature="3891:3904" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="3959:3967" ph=" }" />
+              <marker date="1568787166425" expanded="true" signature="4075:4106" ph="@{...}" />
+              <marker date="1568787166425" expanded="false" signature="4217:4230" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="4256:4264" ph=" }" />
+              <marker date="1568787166425" expanded="true" signature="4407:4567" ph="{...}" />
+              <marker date="1568787166425" expanded="true" signature="4597:4618" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="4614:4618" ph="9090" />
+              <marker date="1568787166425" expanded="true" signature="4620:4643" ph="spring: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="4656:4664" ph="ServiceB" />
+              <marker date="1568787166425" expanded="true" signature="4666:4686" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="4688:4723" ph="​    hostname: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="4703:4712" ph="localhost" />
+              <marker date="1568787166425" expanded="true" signature="4763:4791" ph="http://lo…761/eureka" />
+              <marker date="1568787166425" expanded="true" signature="5239:5260" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5256:5260" ph="8761" />
+              <marker date="1568787166425" expanded="true" signature="5262:5282" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5284:5315" ph="​    hostname: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5299:5304" ph="peer1" />
+              <marker date="1568787166425" expanded="true" signature="5355:5380" ph="http://pe…62/eureka/" />
+              <marker date="1568787166425" expanded="true" signature="5396:5417" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5413:5417" ph="8762" />
+              <marker date="1568787166425" expanded="true" signature="5419:5439" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5441:5472" ph="​    hostname: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5456:5461" ph="peer2" />
+              <marker date="1568787166425" expanded="true" signature="5512:5537" ph="http://pe…61/eureka/" />
+              <marker date="1568787166425" expanded="true" signature="5593:5613" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5609:5613" ph="8080" />
+              <marker date="1568787166425" expanded="true" signature="5614:5655" ph="spring: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5624:5655" ph="application: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5647:5655" ph="ServiceA" />
+              <marker date="1568787166425" expanded="true" signature="5656:5794" ph="eureka: &lt;2 keys&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5666:5699" ph="instance: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5690:5699" ph="localhost" />
+              <marker date="1568787166425" expanded="true" signature="5702:5794" ph="client: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5714:5794" ph="serviceUrl: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5745:5794" ph="http://pe…762/eureka" />
+              <marker date="1568787166425" expanded="true" signature="5823:5843" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5839:5843" ph="9090" />
+              <marker date="1568787166425" expanded="true" signature="5844:5885" ph="spring: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5854:5885" ph="application: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5877:5885" ph="ServiceB" />
+              <marker date="1568787166425" expanded="true" signature="5886:6024" ph="eureka: &lt;2 keys&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5896:5929" ph="instance: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5920:5929" ph="localhost" />
+              <marker date="1568787166425" expanded="true" signature="5932:6024" ph="client: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5944:6024" ph="serviceUrl: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5975:6024" ph="http://pe…762/eureka" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serviceA/src/main/java/com/wcy/service/ServiceAApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serviceA/src/main/java/com/wcy/service/ServiceAController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serviceB/src/main/java/com/wcy/service/ServiceBApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serviceB/src/main/java/com/wcy/service/ServiceBController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serviceB/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server2/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serviceA/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serviceB/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-netflix-core/1.4.4.RELEASE/spring-cloud-netflix-core-1.4.4.RELEASE.jar!/org/springframework/cloud/netflix/metrics/atlas/AtlasConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="36" column="25" lean-forward="false" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serviceA/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serviceB/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serviceB/src/main/java/com/wcy/service/ServiceBController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serviceB/src/main/java/com/wcy/service/ServiceBApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serviceA/src/main/java/com/wcy/service/ServiceAController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serviceA/src/main/java/com/wcy/service/ServiceAApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/java/com/wcy/EServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server2/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eureka.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2139">
+            <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="107" selection-end-column="25" />
+            <folding>
+              <marker date="1568787166425" expanded="true" signature="68:244" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="303:695" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="328:665" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="355:639" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="719:1267" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="742:892" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="915:1065" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="1088:1245" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="1296:1339" ph="@{...}" />
+              <marker date="1568787166425" expanded="false" signature="1413:1426" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="1474:1482" ph=" }" />
+              <marker date="1568787166425" expanded="true" signature="1549:1570" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="1566:1570" ph="8761" />
+              <marker date="1568787166425" expanded="true" signature="1572:1590" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="1617:1622" ph="false" />
+              <marker date="1568787166425" expanded="true" signature="1644:1649" ph="false" />
+              <marker date="1568787166425" expanded="true" signature="1846:2214" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="1869:2019" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="2042:2192" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="2239:2282" ph="@{...}" />
+              <marker date="1568787166425" expanded="false" signature="2363:2376" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="2431:2439" ph=" }" />
+              <marker date="1568787166425" expanded="false" signature="2731:2744" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="2784:2794" ph=" }" />
+              <marker date="1568787166425" expanded="true" signature="2820:2841" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="2837:2841" ph="8080" />
+              <marker date="1568787166425" expanded="true" signature="2843:2866" ph="spring: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="2879:2887" ph="ServiceA" />
+              <marker date="1568787166425" expanded="true" signature="2889:2909" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="2911:2946" ph="​    hostname: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="2926:2935" ph="localhost" />
+              <marker date="1568787166425" expanded="true" signature="2986:3014" ph="http://lo…761/eureka" />
+              <marker date="1568787166425" expanded="true" signature="3197:3738" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="3220:3370" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="3393:3543" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="3566:3716" ph="..." />
+              <marker date="1568787166425" expanded="true" signature="3767:3810" ph="@{...}" />
+              <marker date="1568787166425" expanded="false" signature="3891:3904" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="3959:3967" ph=" }" />
+              <marker date="1568787166425" expanded="true" signature="4075:4106" ph="@{...}" />
+              <marker date="1568787166425" expanded="false" signature="4217:4230" ph=" { " />
+              <marker date="1568787166425" expanded="false" signature="4256:4264" ph=" }" />
+              <marker date="1568787166425" expanded="true" signature="4407:4567" ph="{...}" />
+              <marker date="1568787166425" expanded="true" signature="4597:4618" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="4614:4618" ph="9090" />
+              <marker date="1568787166425" expanded="true" signature="4620:4643" ph="spring: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="4656:4664" ph="ServiceB" />
+              <marker date="1568787166425" expanded="true" signature="4666:4686" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="4688:4723" ph="​    hostname: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="4703:4712" ph="localhost" />
+              <marker date="1568787166425" expanded="true" signature="4763:4791" ph="http://lo…761/eureka" />
+              <marker date="1568787166425" expanded="true" signature="5239:5260" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5256:5260" ph="8761" />
+              <marker date="1568787166425" expanded="true" signature="5262:5282" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5284:5315" ph="​    hostname: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5299:5304" ph="peer1" />
+              <marker date="1568787166425" expanded="true" signature="5355:5380" ph="http://pe…62/eureka/" />
+              <marker date="1568787166425" expanded="true" signature="5396:5417" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5413:5417" ph="8762" />
+              <marker date="1568787166425" expanded="true" signature="5419:5439" ph="eureka: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5441:5472" ph="​    hostname: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5456:5461" ph="peer2" />
+              <marker date="1568787166425" expanded="true" signature="5512:5537" ph="http://pe…61/eureka/" />
+              <marker date="1568787166425" expanded="true" signature="5593:5613" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5609:5613" ph="8080" />
+              <marker date="1568787166425" expanded="true" signature="5614:5655" ph="spring: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5624:5655" ph="application: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5647:5655" ph="ServiceA" />
+              <marker date="1568787166425" expanded="true" signature="5656:5794" ph="eureka: &lt;2 keys&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5666:5699" ph="instance: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5690:5699" ph="localhost" />
+              <marker date="1568787166425" expanded="true" signature="5702:5794" ph="client: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5714:5794" ph="serviceUrl: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5745:5794" ph="http://pe…762/eureka" />
+              <marker date="1568787166425" expanded="true" signature="5823:5843" ph="server: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5839:5843" ph="9090" />
+              <marker date="1568787166425" expanded="true" signature="5844:5885" ph="spring: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5854:5885" ph="application: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5877:5885" ph="ServiceB" />
+              <marker date="1568787166425" expanded="true" signature="5886:6024" ph="eureka: &lt;2 keys&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5896:5929" ph="instance: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5920:5929" ph="localhost" />
+              <marker date="1568787166425" expanded="true" signature="5932:6024" ph="client: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5944:6024" ph="serviceUrl: &lt;1 key&gt;" />
+              <marker date="1568787166425" expanded="true" signature="5975:6024" ph="http://pe…762/eureka" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server2/src/main/java/com/wcy/EServer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="4" column="74" lean-forward="false" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
